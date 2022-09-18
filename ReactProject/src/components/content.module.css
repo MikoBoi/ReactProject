@@ -1,0 +1,261 @@
+.content{
+  @apply lg:px-72 md:px-32 xsm:px-4 sm:px-0 bg-white select-none justify-center
+}
+.content1{
+  @apply lg:flex md:flex xsm:flex sm:block justify-between
+}
+.content2{
+  @apply lg:block md:block xsm:block sm:hidden w-32
+}
+.content3{
+  @apply mx-5 my-5 border-2 border-white hover:border-primary-400 focus:outline-none focus:border-primary-400 rounded w-20 h-24 flex items-center
+}
+.content4{
+  @apply flex items-center py-8 lg:px-8 md:px-8 xsm:px-0 justify-center
+}
+.content5{
+  @apply py-5 lg:px-4 md:px-4 xsm:px-0 sm:px-4
+}
+.content6{
+  @apply lg:text-4xl sm:text-2xl text-primary-600 font-black
+}
+.content7{
+  @apply text-lg font-normal text-primary-500
+}
+.content8{
+  @apply py-2 flex
+}
+.content9{
+  @apply text-sm font-normal text-gray-300 pr-1 lg:inline md:inline xsm:inline sm:hidden
+}
+.content10{
+  @apply text-sm font-medium text-primary-500 lg:inline md:inline xsm:inline sm:hidden
+}
+.content11{
+  @apply flex items-center lg:ml-6
+}
+.content12{
+  @apply text-sm font-medium text-gray-300 pl-1
+}
+.content13{
+  @apply lg:block md:block xsm:block sm:flex sm:items-end
+}
+.content14{
+  @apply py-2 flex sm:pr-14
+}
+.content15{
+  @apply text-3xl text-primary-600 font-black
+}
+.content16{
+  @apply text-lg text-primary-600 font-black
+}
+.content17{
+  @apply pb-2 block
+}
+.content18{
+  @apply text-sm font-normal text-primary-600
+}
+.content19{
+  @apply rounded-full h-2 w-12 bg-primary-600 absolute
+}
+.content20{
+  @apply rounded-full h-2 w-28 bg-gray-200
+}
+.content21{
+  @apply py-2
+}
+.content22{
+  @apply text-base font-bold text-primary-400
+}
+.content23{
+  @apply py-1 flex
+}
+.content24{
+  @apply mr-1 h-7 w-32 border-2 border-primary-400 text-primary-400 hover:border-primary-400 hover:bg-primary-400 hover:text-white focus:outline-none focus:border-primary-400 focus:bg-primary-400 focus:text-white rounded-full
+}
+.content25{
+  @apply mr-1 h-7 w-28 border-2 border-primary-400 text-primary-400 hover:border-primary-400 hover:bg-primary-400 hover:text-white focus:outline-none focus:border-primary-400 focus:bg-primary-400 focus:text-white rounded-full
+}
+.content26{
+  @apply py-6
+}
+.content27{
+  @apply mr-2 h-12 lg:w-64 md:w-64 xsm:w-64 sm:w-full border-2 border-primary-400 text-white bg-primary-400 focus:outline-none rounded-lg text-lg font-semibold
+}
+.content28{
+  @apply text-sm font-medium text-primary-500
+}
+.content29{
+  @apply text-base font-bold text-primary-600
+}
+.content30{
+  @apply px-12
+}
+.content31{
+  @apply px-20
+}
+.content32{
+  @apply py-2 lg:px-0 sm:px-4
+}
+.content33{
+  @apply text-2xl font-black text-primary-600
+}
+.content34{
+  @apply px-4 py-3 text-sm
+}
+.content35{
+  @apply pt-6
+}
+.content36{
+  @apply text-xl font-black text-primary-500
+}
+.content37{
+  @apply pt-2
+}
+.content38{
+  @apply py-4 w-2/4 lg:block md:block xsm:block sm:hidden
+}
+.content39{
+  @apply text-2xl font-black text-primary-600
+}
+.content40{
+  @apply pt-4 pb-2 border-b-2 border-primary-400 flex
+}
+.content41{
+  @apply text-sm text-primary-500
+}
+.content42{
+  @apply text-sm flex text-sm text-primary-500 px-2 items-center cursor-pointer hover:bg-gray-100 rounded-full
+}
+.content43{
+  @apply pt-10 pb-2
+}
+.content44{
+  @apply flex
+}
+.content45{
+  @apply px-3 text-sm truncate
+}
+.content46{
+  @apply font-semibold
+}
+.content47{
+  @apply text-gray-400
+}
+.content48{
+  @apply py-2 text-sm
+}
+.content49{
+  @apply ml-5 mr-24 my-2 px-4 py-3 bg-yellow-100 rounded-lg
+}
+.content50{
+  @apply font-bold
+}
+.content51{
+  @apply break-words
+}
+.content52{
+  @apply flex py-2 items-center
+}
+.content53{
+  @apply mx-4 px-2 flex cursor-pointer hover:bg-gray-100 rounded-full
+}
+.content54{
+  @apply py-4 lg:block md:block xsm:block sm:hidden
+}
+.content55{
+  @apply block py-4 overflow-ellipsis truncate
+}
+.content56{
+  @apply flex items-center py-1
+}
+.content57{
+  @apply px-2 text-primary-500
+}
+.content58{
+  @apply px-4 py-2 block
+}
+.content59{
+  @apply flex items-center text-primary-600 text-sm my-1
+}
+.content60{
+  @apply mr-2.5
+}
+.content61{
+  @apply mx-5
+}
+.content62{
+  @apply mr-0.5
+}
+.content63{
+  @apply rounded-full h-2 w-36 bg-primary-600 absolute
+}
+.content64{
+  @apply rounded-full h-2 w-44 bg-gray-200
+}
+.content65{
+  @apply rounded-full h-2 w-4 bg-primary-600 absolute
+}
+.content66{
+  @apply rounded-full h-2 w-3 bg-primary-600 absolute
+}
+.content67{
+  @apply rounded-full h-2 w-1 bg-primary-600 absolute
+}
+.content68{
+  @apply rounded-full h-2 w-1.5 bg-primary-600 absolute
+}
+.content69{
+  @apply px-2 py-4 w-2/3
+}
+.content70{
+  @apply pb-2 border-b-2 border-primary-400 flex
+}
+.content71{
+  @apply text-sm flex text-sm text-primary-500 px-2 mr-5 items-center cursor-pointer hover:bg-gray-100 rounded-full
+}
+.content72{
+  @apply px-2 pt-6 pb-2
+}
+.content73{
+  @apply flex items-end mb-1 mx-36
+}
+.content74{
+  @apply py-2 px-12 text-sm
+}
+.content75{
+  @apply px-2 pb-2
+}
+.content76{
+  @apply py-2 lg:block md:block xsm:block sm:hidden
+}
+.content77{
+  @apply py-8 flex overflow-x-auto scrollbar-thin scrollbar-thumb-primary-600 scrollbar-track-gray-300 scrollbar-thumb-rounded-full scrollbar-track-rounded-full
+}
+.content78{
+  @apply block mr-20 w-56 flex-shrink-0
+}
+.content79{
+  @apply text-primary-600 font-black
+}
+.content80{
+  @apply text-xs text-primary-600 font-black
+}
+.content81{
+  @apply flex items-center
+}
+.content82{
+  @apply text-xs font-medium text-gray-300 pl-1
+}
+.content83{
+  @apply pt-2 flex
+}
+.content84{
+  @apply text-xl text-primary-600 font-black
+}
+.content85{
+  @apply text-sm text-primary-600 font-black
+}
+.content86{
+  @apply text-xs font-normal text-primary-600
+}

@@ -1,0 +1,66 @@
+.footer{
+    @apply lg:px-72 md:px-32 xsm:px-4 lg:block md:block xsm:block sm:hidden bg-white select-none justify-center
+}
+.footer1{
+    @apply my-16 border-t-2 border-primary-400
+}
+.footer2{
+    @apply flex py-10
+}
+.footer3{
+    @apply block
+}
+.footer4{
+    @apply flex text-primary-400 pb-10
+}
+.footer5{
+    @apply text-primary-700 text-3xl font-semibold
+}
+.footer6{
+    @apply pb-8
+}
+.footer7{
+    @apply text-xl text-primary-700 font-black
+}
+.footer8{
+    @apply text-sm text-primary-500
+}
+.footer9{
+    @apply flex
+}
+.footer10{
+    @apply flex lg:px-32 md:px-14 xsm:px-14 py-2 justify-between
+}
+.footer11{
+    @apply block lg:pr-32 md:pr-10 xsm:pr-10
+}
+.footer12{
+    @apply text-primary-500 font-medium cursor-pointer
+}
+.footer13{
+    @apply text-primary-400 cursor-pointer
+}
+.footer14{
+    @apply block pt-6
+}
+.footer15{
+    @apply flex pt-6 items-center text-primary-500 cursor-pointer
+}
+.footer16{
+    @apply text-primary-500 font-medium
+}
+.footer17{
+    @apply my-6 border-t border-primary-400
+}
+.footer18{
+    @apply flex my-6 truncate
+}
+.footer19{
+    @apply text-primary-400 text-xs font-semibold
+}
+.footer20{
+    @apply flex w-screen justify-end pl-16
+}
+.footer21{
+    @apply text-primary-400 text-xs font-semibold underline mr-6 cursor-pointer
+}

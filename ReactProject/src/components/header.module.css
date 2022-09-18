@@ -1,0 +1,57 @@
+.OuterContainer{
+    @apply lg:px-72 md:px-32 xsm:px-4 sm:px-0 bg-white select-none truncate justify-center
+}
+.navigation1{
+    @apply py-2 lg:flex md:flex xsm:flex sm:hidden
+}
+.navigation2{
+    @apply text-xs text-primary-400 mx-5 cursor-pointer
+}
+.navigation3{
+    @apply text-xs text-primary-400 flex w-screen justify-end
+}
+.navigation4{
+    @apply text-xs text-primary-400 mx-3 cursor-pointer flex
+}
+.MobileNavBar{
+    @apply px-4 pt-10 lg:hidden md:hidden xsm:hidden sm:flex justify-between text-primary-700
+}
+.navigation5{
+    @apply py-6 lg:flex md:flex xsm:flex sm:hidden
+}
+.navigation6{
+    @apply px-4 cursor-pointer text-primary-700
+}
+.navigation7{
+    @apply text-primary-400
+}
+.navigation8{
+    @apply text-primary-700 text-3xl font-semibold
+}
+.navigation9{
+    @apply px-4 w-screen
+}
+.navigation10{
+    @apply border-2 border-primary-400 flex items-center rounded-full h-9
+}
+.navigation11{
+    @apply h-8 w-20 bg-primary-100 rounded-l-full flex items-center justify-center text-primary-700 cursor-pointer
+}
+.navigation12{
+    @apply rounded-l-full h-5 py-2 px-2 text-gray-700 leading-tight w-full focus:outline-none placeholder-primary-400
+}
+.navigation13{
+    @apply bg-primary-400 text-white rounded-r-full hover:bg-white hover:text-primary-400 focus:outline-none w-12 h-8 flex items-center justify-center
+}
+.navigation14{
+    @apply text-primary-400 flex h-8 items-center cursor-pointer
+}
+.navigation15{
+    @apply text-primary-400 flex h-8 items-center px-4 cursor-pointer
+}
+.navigation16{
+    @apply text-xs
+}
+.navigation17{
+    @apply font-bold
+}
